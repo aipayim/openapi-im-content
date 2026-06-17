@@ -1,0 +1,9 @@
+[
+  {
+    "name": "codex-proxy",
+    "description": "一个高效的 API 代理工具，帮助开发者更便捷地调用各类 API 服务。支持流量转发、请求修改和响应缓存等功能。",
+    "url": "https://github.com/aipayim/codex-proxy",
+    "logo": "",
+    "weight": 10
+  }
+]
